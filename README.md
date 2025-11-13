@@ -51,7 +51,7 @@ public class Developer extends MinecraftPluginDeveloper {
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sypherox&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats-rho-puce-69.vercel.app/api?username=Sypherox&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sypherox&layout=compact&theme=tokyonight)
 
