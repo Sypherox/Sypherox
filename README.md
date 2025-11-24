@@ -1,6 +1,6 @@
 # Hey, I'm Sypherox ⭐
 
-```
+```java
 public class Developer extends MinecraftPluginDeveloper {
     
     private String name = "Sypherox";
@@ -35,7 +35,7 @@ public class Developer extends MinecraftPluginDeveloper {
         return projects;
     }
 }
-```java
+```
 
 ## 🛠️ Tools
 
