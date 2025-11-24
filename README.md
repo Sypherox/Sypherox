@@ -35,7 +35,7 @@ public class Developer extends MinecraftPluginDeveloper {
         return projects;
     }
 }
-```
+```java
 
 ## 🛠️ Tools
 
