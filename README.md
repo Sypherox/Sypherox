@@ -53,8 +53,6 @@ public class Developer extends MinecraftPluginDeveloper {
 
 ![Your GitHub stats](https://github-readme-stats-rho-puce-69.vercel.app/api?username=Sypherox&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sypherox&layout=compact&theme=tokyonight)
-
 ## 🎯 Specialization
 
 ```
@@ -66,7 +64,7 @@ Focus:
   - Game Mode Design
 
 Experience:
-  - Spigot/Bukkit: █████████████ 100%
+  - Spigot/Paper: █████████████ 100%
   - Java:         ████████████░  95%
   - BungeeCord:   ███████████░░  90%
   - Maven:        ███████████░░  90%
