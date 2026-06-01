@@ -5,7 +5,7 @@
   <br/>
 
   [![GitHub](https://img.shields.io/badge/GitHub-Sypherox-FF5555?style=for-the-badge&logo=github)](https://github.com/Sypherox)
-  [![Discord](https://img.shields.io/badge/Discord-Join-FF5555?style=for-the-badge&logo=discord)](https://discord.sypherox.dev)
+  [![Discord](https://img.shields.io/badge/Discord-Join-FF5555?style=for-the-badge&logo=discord)](https://sypherox.dev/discord)
   [![Profile Views](https://komarev.com/ghpvc/?username=Sypherox&color=FF5555&style=for-the-badge&label=VIEWS)](https://github.com/Sypherox)
 
 </div>
